@@ -1,0 +1,22 @@
+{
+    "name": "easyiot",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microIoT": "github:dfrobot/pxt-dfrobot-microiot#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
